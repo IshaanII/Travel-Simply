@@ -1,0 +1,13 @@
+   
+{
+    "manifest_version": 2,
+    "name": "Travel Simply",
+    "description": "Quick launch for Travel Simply",
+    "version": "1.0.0",
+    "icons": { "120": "TravelResize.png" },
+    "browser_action": {
+      "default_icon": "Travel.png",
+      "default_popup": "AirBnB Travel Simply.html"
+    },
+    "permissions": ["activeTab"]
+  }
